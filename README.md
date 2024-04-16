@@ -32,7 +32,7 @@ This project uses the ChatGPT API provided by OpenAI for natural language proces
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
-![Screenshot 2024-04-16 120714](https://github.com/muhammednawaf/ChatBot/assets/111062573/9de31bbf-55df-4b78-8fa![Screenshot 2024-04-16 120804](https://github.com/muhammednawaf/ChatBot/assets/111062573/48050d3a-ce0b-483d-aa8e-b078e2a2e650)
+![Screenshot 2024-04-16 120804](https://github.com/muhammednawaf/ChatBot/assets/111062573/48050d3a-ce0b-483d-aa8e-b078e2a2e650)
 9-c8b1e30dbdcf)
 
 
