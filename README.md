@@ -8,13 +8,11 @@ This project integrates ChatGPT into a web application to create a conversationa
 
 Follow these steps to run the project:
 
-1. Install dependencies:
-
-2. Add your ChatGPT API key:
+1. Install dependencies: npm install
+2. Start the development server: npm run dev
+3. Add your ChatGPT API key:
 - Create a `.env.local` file if it doesn't exist.
 - Add your ChatGPT API key to the `.env.local` file
-
-3. Start the development server:
 
 ## Technologies Used
 
