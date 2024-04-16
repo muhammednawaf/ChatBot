@@ -12,10 +12,7 @@ Follow these steps to run the project:
 
 2. Add your ChatGPT API key:
 - Create a `.env.local` file if it doesn't exist.
-- Add your ChatGPT API key to the `.env.local` file:
-  ```
-  OPENAI_API_KEY=YOUR_API_KEY_HERE
-  ```
+- Add your ChatGPT API key to the `.env.local` file
 
 3. Start the development server:
 
