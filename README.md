@@ -15,7 +15,7 @@ Follow these steps to run the project:
 - Add your ChatGPT API key to the `.env.local` file
 
 ## Technologies Used
-
+- Next.js
 - Node.js
 - TypeScript
 - JavaScript
